@@ -5,7 +5,7 @@ This project presents a comprehensive electrical and control system design for a
 
 The central automation unit orchestrating the process is the **Siemens SIMATIC S7-1500 Programmable Logic Controller (PLC)**.
 
-## 🛠️ Hardware & Technologies Used
+## Hardware & Technologies Used
 * **PLC:** Siemens SIMATIC S7-1500 (AI, DI, DQ, and HSC modules).
 * **Primary Motor:** 18.5 kW Siemens SIMOTICS SD 1LE1503-1EB2 Severe Duty induction motor (Cast Iron, IE3).
 * **Sensors & Instrumentation:** * Pressure & Level:* Siemens SITRANS P DS III
