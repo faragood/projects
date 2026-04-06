@@ -8,7 +8,7 @@ The central automation unit orchestrating the process is the **Siemens SIMATIC S
 ## Hardware & Technologies Used
 * **PLC:** Siemens SIMATIC S7-1500 (AI, DI, DQ, and HSC modules).
 * **Primary Motor:** 18.5 kW Siemens SIMOTICS SD 1LE1503-1EB2 Severe Duty induction motor (Cast Iron, IE3).
-* **Sensors & Instrumentation:** * Pressure & Level:* Siemens SITRANS P DS III
+* **Sensors & Instrumentation:** Pressure & Level: Siemens SITRANS P DS III
   * *Temperature:* Siemens SITRANS TS500 with TH420 transmitter
   * *Flow:* Siemens SITRANS F M MAG 5100 W
   * *Speed/RPM:* Siemens SITRANS WS300 (HSC integration)
