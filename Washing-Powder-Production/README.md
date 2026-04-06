@@ -33,14 +33,3 @@ The central automation unit orchestrating the process is the **Siemens SIMATIC S
 * Selected the Siemens motor for its superior vibration damping, higher starting torque (300 Nm), and thermal service factor (SF 1.15) suitable for heavy-duty mixing.
 * Designed a **Star-Delta relay-contactor starting circuit** to safely limit the 720% (252 A) inrush current, preventing voltage sags in the industrial grid. Included electrical interlocking for safety.
 
-## Schematics & Diagrams
-*(Add screenshots of your AutoCAD diagrams here by dragging and dropping them into the editor)*
-
-* **Power Distribution Scheme:** `[Insert Screenshot of ACD_SIS1_Schem]`
-* **Sensor Connection Diagram:** `[Insert Screenshot of ACD_SIS2_Model]`
-* **Star-Delta Motor Control Circuit:** `[Insert Screenshot of ACD_SIS3_Schema]`
-
-##  Repository Contents
-* `ACD_SIS1_Report.pdf` & `ACD_SIS1_Schem.pdf` - Power Distribution and calculations.
-* `ACD_SIS2_Report.pdf` & `ACD_SIS2_Model.pdf` - Instrumentation and I/O mapping.
-* `ACD_SIS3_Report.pdf` & `ACD_SIS3_Schema.pdf` - Motor analysis and control circuit design.
