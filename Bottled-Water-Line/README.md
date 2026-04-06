@@ -3,6 +3,9 @@
 ## Overview
 This repository showcases the automated control logic and robotic integration for a continuous bottled water production line. The project demonstrates the seamless synchronization between a central Programmable Logic Controller (PLC) and a 6-axis industrial manipulator to execute high-speed, precise pick-and-place palletizing operations.
 
+## Project Video
+* **Project in action:** [Watch the video on Google Drive](https://drive.google.com/file/d/1Q5lC6KCq95BKOLcqEprRpNdRWLWnDHkg/view?usp=sharing)
+
 ## Hardware & Technologies Used
 * **PLC:** Schneider Electric Modicon M241 
 * **Software Environment:** Schneider EcoStruxure Machine Expert
